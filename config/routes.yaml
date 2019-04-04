@@ -19,3 +19,7 @@ login:
    path:       /
    controller: App\Controller\HomeController::home
    methods: GET|POST
+
+
+logout:
+    path: /logout

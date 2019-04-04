@@ -13,16 +13,7 @@ use App\Repository\PostRepository;
 class HomeController extends AbstractController
 {
 
-	/**
-	*	@var Environment
-	**/
-	private $twig;
 
-	public function __construct(Environment $twig)
-	{
-		$this->twig = $twig;
-
-	}
 
 	/**
       * Require ROLE_USER for only this controller method.
