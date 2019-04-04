@@ -1,3 +1,21 @@
-#index:
-#    path: /
-#    controller: App\Controller\DefaultController::index
+index:
+    path: /
+    controller: App\Controller\loginController::login
+    
+    
+post:
+    path: /post.php
+    controller: App\Controller\PostController
+
+home:
+    path: /home.php
+    controller: App\Controller\HomeController::home
+
+app_logout:
+    path: /logout
+    methods: GET
+
+login:
+   path:       /
+   controller: App\Controller\HomeController::home
+   methods: GET|POST

@@ -1,0 +1,803 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"username"
+			],
+			[
+				"this",
+				"this-"
+			],
+			[
+				"crea",
+				"createQueryBuilder"
+			],
+			[
+				"Pos",
+				"PostRepository"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/pages/home.html.twig",
+			"settings":
+			{
+				"buffer_size": 1735,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Entity/Post.php",
+			"settings":
+			{
+				"buffer_size": 4393,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/pages/dashboard.html.twig",
+			"settings":
+			{
+				"buffer_size": 2283,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/pages/create.html.twig",
+			"settings":
+			{
+				"buffer_size": 1453,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/pages/post.html.twig",
+			"settings":
+			{
+				"buffer_size": 1489,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Entity/User.php",
+			"settings":
+			{
+				"buffer_size": 448,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Controller/PostController.php",
+			"settings":
+			{
+				"buffer_size": 2296,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/services.yaml",
+			"settings":
+			{
+				"buffer_size": 1300,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/packages/security.yaml",
+			"settings":
+			{
+				"buffer_size": 1812,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.yaml",
+			"settings":
+			{
+				"buffer_size": 378,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/packages/fos_user.yaml",
+			"settings":
+			{
+				"buffer_size": 206,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Security/LoginAuthenticator.php",
+			"settings":
+			{
+				"buffer_size": 3605,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Controller/LoginController.php",
+			"settings":
+			{
+				"buffer_size": 804,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/pages/edit.html.twig",
+			"settings":
+			{
+				"buffer_size": 1345,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"php bin/console make:user"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/wibrio",
+		"/var/www/html/wibrio/src",
+		"/var/www/html/wibrio/src/Entity"
+	],
+	"file_history":
+	[
+		"/var/www/html/wibrio/src/Entity/User.php",
+		"/var/www/html/wibrio/config/routes/fos_user.yaml",
+		"/var/www/html/wibrio/config/packages/fos_user.yaml",
+		"/var/www/html/wibrio/config/packages/framework.yaml",
+		"/var/www/html/blog/src/Controller/HomeController.php",
+		"/var/www/html/blog/config/packages/security.yaml",
+		"/var/www/html/blog/src/Entity/User.php",
+		"/var/www/html/blog/src/Controller/PostController.php",
+		"/var/www/html/blog/templates/pages/post.html.twig",
+		"/var/www/html/blog/src/Entity/Post.php",
+		"/var/www/html/blog/config/routes.yaml",
+		"/var/www/html/blog/src/Controller/Admin/AdminPostController.php",
+		"/var/www/html/blog/templates/pages/edit.html.twig",
+		"/var/www/html/blog/src/Controller/DashboardController.php",
+		"/var/www/html/blog/src/Security/PostVoter.php",
+		"/var/www/html/blog/templates/admin/edit.html.twig",
+		"/var/www/html/blog/config/services.yaml",
+		"/var/www/html/blog/src/Controller/SecurityController.php",
+		"/var/www/html/blog/src/Repository/PostRepository.php",
+		"/var/www/html/blog/templates/security/login.html.twig",
+		"/var/www/html/blog/templates/pages/home.html.twig",
+		"/var/www/html/blog/src/Repository/UserRepository.php",
+		"/var/www/html/blog/templates/admin/index.html.twig",
+		"/var/www/html/blog/src/Controller/backend/AdminPostController.php",
+		"/var/www/html/blog/src/Controller/Admin/PostType.php",
+		"/var/www/html/blog/src/Form/PostType.php",
+		"/var/www/html/blog/composer.json",
+		"/var/www/html/blog/src/Controller/test/AdminPostController.php",
+		"/var/www/html/blog/src/Controller/AdminPostController.php",
+		"/var/www/html/blog/templates/test/edit.html.twig",
+		"/var/www/html/blog/templates/test/index.html.twig",
+		"/var/www/html/blog/templates/admin/post/edit.html.twig",
+		"/var/www/html/blog/templates/base.html.twig",
+		"/var/www/html/blog/templates/pages/dashboard.html.twig",
+		"/var/www/html/blog/.env",
+		"/var/www/html/blog/src/Entity/Category.php",
+		"/var/www/html/blog/src/Entity/Tag.php",
+		"/var/www/html/blog/config/packages/twig.yaml",
+		"/var/www/html/blog/assets/js/app.js",
+		"/var/www/html/blog/assets/js/greet.js",
+		"/var/www/html/blog/src/Security/LoginFormAuthenticator.php",
+		"/var/www/html/blog/app.js",
+		"/var/www/html/blog/assets/css/global.scss",
+		"/var/www/html/blog/public/_home.php",
+		"/var/www/html/blog/templates/security/LoginFormAuthenticator.php",
+		"/var/www/html/blog/src/DataFixtures/UserFixtures.php",
+		"/var/www/html/blog/src/DataFixtures/ProductFixture.php",
+		"/var/www/html/blog/src/DataFixtures/AppFixtures.php",
+		"/var/www/html/wibrio/.env",
+		"/var/www/html/wibrio/src/Admin/CategoryAdmin.php",
+		"/var/www/html/wibrio/src/Admin/BlogPostAdmin.php",
+		"/var/www/html/wibrio/config/services.yaml",
+		"/var/www/html/wibrio/config/bundles.php",
+		"/var/www/html/wibrio/config/packages/sonata_admin.yaml",
+		"/var/www/html/wibrio/src/Entity/BlogPost.php",
+		"/var/www/html/wibrio/src/Entity/Category.php",
+		"/var/www/html/wibrio/config/packages/translation.yaml",
+		"/var/www/html/wibrio/src/Kernel.php",
+		"/var/www/html/wibrio/config/routes.yaml",
+		"/var/www/html/wibrio/config/packages/sonata_user.yaml",
+		"/var/www/html/wibrio/config/packages/security.yaml",
+		"/var/www/html/wibrio/config/packages/doctrine.yaml",
+		"/var/www/html/wibrio/src/Entity/_BlogPost.php",
+		"/var/www/html/wibrio/src/Entity/_Category.php",
+		"/var/www/html/brioblog/src/Controller/HomeController.php",
+		"/var/www/html/brioblog/.env",
+		"/var/www/html/brioblog/src/DataFixtures/UserFixtures.php",
+		"/var/www/html/brioblog/config/packages/security.yaml",
+		"/var/www/html/brioblog/config/packages/framework.yaml",
+		"/var/www/html/brioblog/src/Entity/BlogPost.php",
+		"/var/www/html/brioblog/src/Admin/CategoryAdmin.php",
+		"/var/www/html/brioblog/src/Entity/Category.php",
+		"/var/www/html/brioblog/src/Controller/SecurityController.php",
+		"/var/www/html/brioblog/src/Security/LoginFormAuthenticator.php",
+		"/var/www/html/brioblog/src/Controller/GalleryController.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/pages/home.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1628,
+								1628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Entity/Post.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/pages/dashboard.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1677,
+								1677
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/pages/create.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1409,
+								1409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/pages/post.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1489,
+								1489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/Entity/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/Controller/PostController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "config/services.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "config/packages/security.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1636,
+								1636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "config/routes.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "config/packages/fos_user.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/Security/LoginAuthenticator.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2888,
+								2888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/Controller/LoginController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "templates/pages/edit.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1254,
+								1254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wibrio.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
